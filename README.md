@@ -7,7 +7,7 @@
 
 This is a community-driven fork of [github/awesome-copilot](https://github.com/github/awesome-copilot), maintained to extend and improve the collection of resources for GitHub Copilot users.
 
-> **Personal note:** I forked this for my own reference while learning how to use Copilot more effectively. My main interest is in prompt files and copilot instructions for Go and TypeScript projects.
+> **Personal note:** I forked this for my own reference while learning how to use Copilot more effectively. My main interest is in prompt files and copilot instructions for Go and TypeScript projects. Most useful sections for me: [Copilot Instructions](#copilot-instructions) and [Prompt Files](#prompt-files).
 
 ## Contents
 
@@ -30,6 +30,8 @@ Custom `.github/copilot-instructions.md` files that tailor Copilot's behavior fo
 Reusable `.prompt.md` files for common development tasks.
 
 - Explore the community-submitted prompts in the [marketplace](.github/plugin/marketplace.json).
+
+> **My picks:** The Go test generation prompt and the TypeScript refactor prompt have been the most useful to me personally.
 
 ## Agent Workflows
 
