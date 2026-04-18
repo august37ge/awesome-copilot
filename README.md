@@ -7,6 +7,8 @@
 
 This is a community-driven fork of [github/awesome-copilot](https://github.com/github/awesome-copilot), maintained to extend and improve the collection of resources for GitHub Copilot users.
 
+> **Personal note:** I forked this for my own reference while learning how to use Copilot more effectively. My main interest is in prompt files and copilot instructions for Go and TypeScript projects.
+
 ## Contents
 
 - [Copilot Instructions](#copilot-instructions)
