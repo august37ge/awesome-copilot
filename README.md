@@ -15,6 +15,7 @@ This is a community-driven fork of [github/awesome-copilot](https://github.com/g
 - [Prompt Files](#prompt-files)
 - [Agent Workflows](#agent-workflows)
 - [Extensions & Plugins](#extensions--plugins)
+- [My Notes](#my-notes)
 - [Contributing](#contributing)
 
 ---
@@ -44,6 +45,16 @@ Agentic workflow definitions for multi-step Copilot tasks.
 A curated list of GitHub Copilot extensions available in the marketplace.
 
 - Browse the full list in [marketplace.json](.github/plugin/marketplace.json).
+
+---
+
+## My Notes
+
+Personal reminders and findings as I work through this repo:
+
+- The Go test generation prompt works best when your functions have clear input/output signatures.
+- For TypeScript, pairing the refactor prompt with strict mode enabled gives much cleaner suggestions.
+- TODO: try the agentic workflow examples with a real side project.
 
 ---
 
