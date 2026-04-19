@@ -56,6 +56,7 @@ Personal reminders and findings as I work through this repo:
 - For TypeScript, pairing the refactor prompt with strict mode enabled gives much cleaner suggestions.
 - TODO: try the agentic workflow examples with a real side project.
 - TODO: look into writing a custom copilot-instructions.md tailored for my Go module layout (cmd/pkg/internal structure).
+- TODO: experiment with using a prompt file for generating Go table-driven tests specifically — the generic test prompt is okay but doesn't always produce idiomatic Go.
 
 ---
 
@@ -71,4 +72,4 @@ This project follows the [all-contributors](https://allcontributors.org/) specif
 
 ## License
 
-[CC0 1.0 Universal](LICENSE) — Public Domain Dedication.
+[C
