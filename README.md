@@ -55,6 +55,7 @@ Personal reminders and findings as I work through this repo:
 - The Go test generation prompt works best when your functions have clear input/output signatures.
 - For TypeScript, pairing the refactor prompt with strict mode enabled gives much cleaner suggestions.
 - TODO: try the agentic workflow examples with a real side project.
+- TODO: look into writing a custom copilot-instructions.md tailored for my Go module layout (cmd/pkg/internal structure).
 
 ---
 
